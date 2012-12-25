@@ -1,6 +1,7 @@
 #### Introduction ####
 
-Textual is small and compact but with all the right features. Also a highly modified version of the open source project known 
+Textual is small and compact but with all the right features.
+Also a highly modified version of the open source project known 
 as LimeChat. Much of the app uses the open standard of WebKit which 
 makes customization easy through the use of CSS 3 and HTML 5. Plugins 
 written in Objective-C and scripts made with AppleScript (and other 
