@@ -1,6 +1,6 @@
-#line 2 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
+#line 2 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
 
-#line 4 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
+#line 4 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
 
 #define  YY_INT_ALIGNED short int
 
@@ -4847,8 +4847,8 @@ static yyconst flex_int16_t yy_chk[16382] =
 #define yymore() yymore_used_but_not_detected
 #define YY_MORE_ADJ 0
 #define YY_RESTORE_YY_MORE_OFFSET
-#line 1 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
-#line 2 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 1 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 2 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 	
 /*
  * The AutoHyperlinks Framework is the legal property of its developers (DEVELOPERS), 
@@ -4880,7 +4880,7 @@ static yyconst flex_int16_t yy_chk[16382] =
 #include "AHLinkLexer.h"
 	
 
-#line 4884 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
+#line 4884 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
 
 #define INITIAL 0
 #define CANONICAL 1
@@ -5100,10 +5100,10 @@ YY_DECL
 	register int yy_act;
     struct yyguts_t * yyg = (struct yyguts_t*)yyscanner;
 
-#line 76 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 76 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 
 
-#line 5107 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
+#line 5107 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
 
 	if ( !yyg->yy_init )
 		{
@@ -5185,110 +5185,110 @@ do_action:	/* This label is used only to access EOF actions. */
 case 1:
 /* rule 1 can match eol */
 YY_RULE_SETUP
-#line 78 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 78 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {yyleng += yyextra;
                                                           BEGIN INITIAL;
                                                           return AHValidURL;}
 	YY_BREAK
 case 2:
 YY_RULE_SETUP
-#line 82 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 82 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {BEGIN INITIAL;
                                                           return AHInvalidURL;}
 	YY_BREAK
 case 3:
 YY_RULE_SETUP
-#line 85 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 85 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {return AHInvalidURL;}
 	YY_BREAK
 case 4:
 YY_RULE_SETUP
-#line 87 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 87 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {return AHValidFile;}
 	YY_BREAK
 case 5:
-#line 90 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 90 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 6:
-#line 91 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 91 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 7:
-#line 92 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 92 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 8:
-#line 93 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 93 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 9:
-#line 94 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 94 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 10:
-#line 95 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 95 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 11:
-#line 96 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 96 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 12:
-#line 97 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 97 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 13:
-#line 98 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 98 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 14:
-#line 99 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 99 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 15:
-#line 100 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 100 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 16:
-#line 101 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 101 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 17:
-#line 102 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 102 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 18:
-#line 103 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 103 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 19:
-#line 104 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 104 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 20:
-#line 105 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 105 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 21:
-#line 106 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 106 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 22:
-#line 107 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 107 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 23:
-#line 108 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 108 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 24:
 YY_RULE_SETUP
-#line 108 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 108 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {yyextra = yyleng; BEGIN CANONICAL;}
 	YY_BREAK
 case 25:
 YY_RULE_SETUP
-#line 110 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 110 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {return AHDegenerateURL;}
 	YY_BREAK
 case 26:
-#line 113 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 113 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 27:
-#line 114 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 114 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 28:
-#line 115 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 115 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 29:
-#line 116 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 116 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 30:
-#line 117 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 117 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 31:
-#line 118 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 118 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 32:
-#line 119 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 119 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 33:
-#line 120 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 120 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 34:
-#line 121 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 121 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 case 35:
 /* rule 35 can match eol */
 YY_RULE_SETUP
-#line 121 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 121 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {return AHValidURL;}
 	YY_BREAK
 case 36:
 YY_RULE_SETUP
-#line 123 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 123 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 {return AHInvalidURL;}
 	YY_BREAK
 case 37:
 YY_RULE_SETUP
-#line 124 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 124 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 ECHO;
 	YY_BREAK
-#line 5292 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
+#line 5292 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c"
 case YY_STATE_EOF(INITIAL):
 case YY_STATE_EOF(CANONICAL):
 	yyterminate();
@@ -6402,7 +6402,7 @@ void AHfree (void * ptr , yyscan_t yyscanner)
 
 #define YYTABLES_NAME "yytables"
 
-#line 124 "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
+#line 124 "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"
 
 
 

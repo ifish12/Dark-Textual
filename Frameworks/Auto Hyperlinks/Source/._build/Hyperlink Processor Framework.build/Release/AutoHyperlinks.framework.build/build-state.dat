@@ -2,325 +2,325 @@ TAutoHyperlinks.framework
 v5
 r1
 cCheck dependencies
-cSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources" Versions/Current/Resources
-cSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks" Versions/Current/AutoHyperlinks
-cSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current" A
-cSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers" Versions/Current/Headers
-cProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist" Resources/Info.plist
+cSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources" Versions/Current/Resources
+cSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current" A
+cSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks" Versions/Current/AutoHyperlinks
+cSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers" Versions/Current/Headers
+cProcessInfoPlistFile "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist" Resources/Info.plist
 cCpHeader Source/AutoHyperlinks.h ../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h
-cCpHeader Source/AHLinkLexer.h ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h
 cCpHeader Source/AHHyperlinkScanner.h ../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h
-cCpResource Resources/Copyright.txt ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt
+cCpHeader Source/AHLinkLexer.h ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h
 cCpResource Resources/License.txt ../AutoHyperlinks.framework/Versions/A/Resources/License.txt
-cLex /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l
-cProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cyxpacwhbyezvmewjkzyqmvkaypc/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cihpynfhkknyvgdwmutpcntinmbc/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks" normal x86_64
-cTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework"
+cCpResource Resources/Copyright.txt ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt
+cLex /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l
+cProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cnxboibxuxazbjetstbtkvvldcmi/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-hjiqoimpljazxrbltlzglebrlfwi/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks" normal x86_64
+cTouch "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework"
 
 N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000005078D4350000000000006730
-t1350095925
+c0000000051B54EAA0000000000006730
+t1370836650
 s26416
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.h
-c0000000050D81F1F0000000000000A36
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.h
+c0000000051D6839E0000000000000A36
+t1373012894
 s2614
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
-c0000000050D81F1F0000000000003EB4
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
+c0000000051D6839E0000000000003EB4
+t1373012894
 s16052
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/License.txt
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/License.txt
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AutoHyperlinks.LinkFileList
-c0000000050D8BCF20000000000000284
-t1356381426
-s644
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AutoHyperlinks.LinkFileList
+c0000000051D685E4000000000000023F
+t1373013476
+s575
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
 t2
 s0
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources/Copyright.txt
-c0000000050D81F1F000000000000015F
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Resources/Copyright.txt
+c0000000051D6839E000000000000015F
+t1373012894
 s351
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources/License.txt
-c0000000050D81F1F000000000000068A
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Resources/License.txt
+c0000000051D6839E000000000000068A
+t1373012894
 s1674
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.h
-c0000000050D81F1F000000000000087C
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.h
+c0000000051D6839E000000000000087C
+t1373012894
 s2172
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m
-c0000000050D81F1F00000000000038A5
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m
+c0000000051D6839E00000000000038A5
+t1373012894
 s14501
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.h
-c0000000050D81F1F0000000000000721
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.h
+c0000000051D6839E0000000000000721
+t1373012894
 s1825
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l
-c0000000050D81F1F00000000000015CA
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l
+c0000000051D6839E00000000000015CA
+t1373012894
 s5578
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AutoHyperlinks.framework_Prefix.pch
-c0000000050D81F1F000000000000071F
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AutoHyperlinks.framework_Prefix.pch
+c0000000051D6839E000000000000071F
+t1373012894
 s1823
 
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AutoHyperlinks.h
-c0000000050D81F1F00000000000006E2
-t1356341023
+N/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AutoHyperlinks.h
+c0000000051D6839E00000000000006E2
+t1373012894
 s1762
 
-N/tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cihpynfhkknyvgdwmutpcntinmbc/AutoHyperlinks.framework_Prefix.pch.pth
-t1356381023
-s13417392
+N/tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cnxboibxuxazbjetstbtkvvldcmi/AutoHyperlinks.framework_Prefix.pch.pth
+t1373012999
+s102756
 
-N/tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cyxpacwhbyezvmewjkzyqmvkaypc/AutoHyperlinks.framework_Prefix.pch.pth
-t1356381021
-s84580
+N/tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-hjiqoimpljazxrbltlzglebrlfwi/AutoHyperlinks.framework_Prefix.pch.pth
+t1373013001
+s12850876
 
 NResources/Info.plist
-c0000000050D81F1F000000000000024F
-t1356341023
+c0000000051D6839E000000000000024F
+t1373012894
 s591
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdbfb0c72f488b641^7dea3872f488b641^---0#1#0#--18"Check dependencies36"0336A633-0E43-4BC0-B3AE-2415F8D8B430-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencieseb3bfb63bd86b741^f92d0e64bd86b741^-327"warning: The specified SDK “Current OS X” does not appear to have all of the necessary headers installed.  Update your project to use a built-in SDK (“Latest OS X” is recommended) or install the system headers (included with the “Command Line Tools” package) from the “Downloads” pane in the Xcode preferences.1(21%IDEActivityLogMessage2@326"Warning: The specified SDK “Current OS X” does not appear to have all of the necessary headers installed.  Update your project to use a built-in SDK (“Latest OS X” is recommended) or install the system headers (included with the “Command Line Tools” package) from the “Downloads” pane in the Xcode preferences.-394706276#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"AC742449-827C-42C0-B797-AFD19547040B-
 
-CCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074226.789824
-e378074226.990871
+CCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394706276.598681
+e394706276.769955
 r1
 xCompileC
 x._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m
 xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.mf7ccca72f488b641^cea8fd72f488b641^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/Source/AHHyperlinkScanner.m0000000000000000^3418"CompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o" Source/AHHyperlinkScanner.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/AutoHyperlinks.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/.." -Xclang -fobjc-runtime-has-weak -include /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cihpynfhkknyvgdwmutpcntinmbc/AutoHyperlinks.framework_Prefix.pch -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o"36"77C3DAFE-2682-4186-B8F4-6EBB7B2FF844-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.me4d99964bd86b741^001ac564bd86b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/Source/AHHyperlinkScanner.m0000000000000000^3109"CompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o" Source/AHHyperlinkScanner.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -Wno-sign-conversion "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/AutoHyperlinks.hmap" "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/x86_64" "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources" "-F/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/.." -Xclang -fobjc-runtime-has-weak -include /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-hjiqoimpljazxrbltlzglebrlfwi/AutoHyperlinks.framework_Prefix.pch -MMD -MT dependencies -MF "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.d" --serialize-diagnostics "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.dia" -c "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.m" -o "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHHyperlinkScanner.o"36"E4CB2CCC-0C1B-490C-B2B1-60BEA922FAE0-
 
-CCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
-s378074226.789815
-e378074227.037749
+CCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s394706276.598692
+e394706276.873445
 r1
 xCompileC
 x._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c
 xnormal
 xx86_64
 xc
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection210"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c9599ca72f488b641^bda80973f488b641^---0#0#0#-19%DVTDocumentLocation2@224"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/._build/Hyperlink%20Processor%20Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c0000000000000000^3221"CompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o" "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -fasm-blocks -Wdeprecated-declarations -mmacosx-version-min=10.6 -Wno-sign-conversion "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/AutoHyperlinks.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/.." -Xclang -fobjc-runtime-has-weak -include /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cyxpacwhbyezvmewjkzyqmvkaypc/AutoHyperlinks.framework_Prefix.pch -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o"36"7A827372-BB93-4132-B2D2-85ACA0B4DAE8-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection187"Compile /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.ca6b59964bd86b741^c898df64bd86b741^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/._build/Hyperlink%20Processor%20Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c0000000000000000^3075"CompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o" "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.6 -Wno-sign-conversion "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/AutoHyperlinks.hmap" "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/x86_64" "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources" "-F/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/.." -Xclang -fobjc-runtime-has-weak -include /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cnxboibxuxazbjetstbtkvvldcmi/AutoHyperlinks.framework_Prefix.pch -MMD -MT dependencies -MF "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.d" --serialize-diagnostics "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.dia" -c "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" -o "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AHLinkLexer.yy.o"36"9C9DAD9B-09C5-4745-A354-ADE9A188C70F-
 
-CCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074226.789820
-e378074226.973479
+CCompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s394706276.598699
+e394706276.743546
 r1
 xCompileC
 x._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
 xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection185"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m47caca72f488b641^9c34f972f488b641^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/../../../Classes/Library/External%20Libraries/ARC%20Weak%20Refrences/PLWeakCompatibilityStubs.m0000000000000000^3568"CompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/AutoHyperlinks.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/.." -Xclang -fobjc-runtime-has-weak -include /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cihpynfhkknyvgdwmutpcntinmbc/AutoHyperlinks.framework_Prefix.pch -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o"36"638B97FA-4F03-4A9F-AF8C-87AFB0B43F59-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Compile /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m96e79964bd86b741^4167be64bd86b741^---0#0#0#-19%DVTDocumentLocation2@178"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/../../../Classes/Library/External%20Libraries/ARC%20Weak%20Refrences/PLWeakCompatibilityStubs.m0000000000000000^3259"CompileC "._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -Wno-sign-conversion "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/AutoHyperlinks.hmap" "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/x86_64" "-I/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources" "-F/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/.." -Xclang -fobjc-runtime-has-weak -include /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-hjiqoimpljazxrbltlzglebrlfwi/AutoHyperlinks.framework_Prefix.pch -MMD -MT dependencies -MF "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.d" --serialize-diagnostics "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.dia" -c "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" -o "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o"36"738831EE-BA05-4F67-B4D9-134311149B8B-
 
 CCpHeader Source/AHHyperlinkScanner.h ../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h
-s378074226.299986
-e378074226.319303
+s394706276.137178
+e394706276.143185
 r1
 xCpHeader
 xSource/AHHyperlinkScanner.h
 x../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy ../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h14cc5072f488b641^0abe5172f488b641^---0#0#0#-19%DVTDocumentLocation2@173"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h000000000080d041^695"CpHeader Source/AHHyperlinkScanner.h ../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.h" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers"36"9353769C-7A79-49A0-B93A-82C9995E09AA-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy ../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.hcaa32364bd86b741^a4a72464bd86b741^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h000000000080d041^626"CpHeader Source/AHHyperlinkScanner.h ../AutoHyperlinks.framework/Versions/A/Headers/AHHyperlinkScanner.h    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHHyperlinkScanner.h" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers"36"5CDD350D-8DC4-4B29-9882-704D52E2FE6A-
 
 CCpHeader Source/AHLinkLexer.h ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h
-s378074226.299977
-e378074226.318026
+s394706276.137193
+e394706276.140932
 r1
 xCpHeader
 xSource/AHLinkLexer.h
 x../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h7d5e4d72f488b641^276a5172f488b641^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h000000000080d041^674"CpHeader Source/AHLinkLexer.h ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.h" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers"36"F8D4047B-594A-4EDD-A705-8D2A63DBB6F2-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h0a862364bd86b741^fd132464bd86b741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h000000000080d041^605"CpHeader Source/AHLinkLexer.h ../AutoHyperlinks.framework/Versions/A/Headers/AHLinkLexer.h    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.h" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers"36"C1DC13C2-F5AE-4A06-8FE3-5C876D074C97-
 
 CCpHeader Source/AutoHyperlinks.h ../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h
-s378074226.299967
-e378074226.318535
+s394706276.137161
+e394706276.141907
 r1
 xCpHeader
 xSource/AutoHyperlinks.h
 x../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy ../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.hd95c4d72f488b641^60935172f488b641^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h000000000080d041^683"CpHeader Source/AutoHyperlinks.h ../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AutoHyperlinks.h" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers"36"42FA160F-D911-434D-87DD-7C053A796FB1-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Copy ../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h029b2364bd86b741^e3532464bd86b741^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h000000000080d041^614"CpHeader Source/AutoHyperlinks.h ../AutoHyperlinks.framework/Versions/A/Headers/AutoHyperlinks.h    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AutoHyperlinks.h" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Headers"36"4F83074B-AEDE-4F5F-A979-8073232EEC28-
 
 CCpResource Resources/Copyright.txt ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt
-s378074226.327029
-e378074226.332873
+s394706276.151191
+e394706276.154731
 r1
 xCpResource
 xResources/Copyright.txt
 x../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt23495472f488b641^6d375572f488b641^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt000000000080d041^686"CpResource Resources/Copyright.txt ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources/Copyright.txt" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources"36"43CE7935-32D5-4D06-A889-454C029B3F4F-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txta7202764bd86b741^419c2764bd86b741^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt000000000080d041^617"CpResource Resources/Copyright.txt ../AutoHyperlinks.framework/Versions/A/Resources/Copyright.txt    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Resources/Copyright.txt" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources"36"0B086B7D-42E4-4BBA-8129-C079F9E6992C-
 
 CCpResource Resources/License.txt ../AutoHyperlinks.framework/Versions/A/Resources/License.txt
-s378074226.327039
-e378074226.334011
+s394706276.151180
+e394706276.155744
 r1
 xCpResource
 xResources/License.txt
 x../AutoHyperlinks.framework/Versions/A/Resources/License.txt
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy ../AutoHyperlinks.framework/Versions/A/Resources/License.txte0825472f488b641^f1815572f488b641^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/License.txt000000000080d041^680"CpResource Resources/License.txt ../AutoHyperlinks.framework/Versions/A/Resources/License.txt    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources/License.txt" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources"36"970E9E3A-F66C-40A9-9D5C-0E46362FE552-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy ../AutoHyperlinks.framework/Versions/A/Resources/License.txt5b262764bd86b741^b5de2764bd86b741^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/License.txt000000000080d041^611"CpResource Resources/License.txt ../AutoHyperlinks.framework/Versions/A/Resources/License.txt    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Resources/License.txt" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources"36"95652F87-CB33-4A94-9D6F-B433906F3797-
 
-CLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks" normal x86_64
-s378074227.044137
-e378074227.112742
+CLd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks" normal x86_64
+s394706276.879716
+e394706276.932388
 r1
 xLd
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks
 xnormal
 xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks69e00b73f488b641^42e81c73f488b641^---0#0#0#--1132"Ld ../AutoHyperlinks.framework/Versions/A/AutoHyperlinks normal x86_64    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib "-L/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/.." "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/.." -filelist "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AutoHyperlinks.LinkFileList" -install_name "@executable_path/../Frameworks/AutoHyperlinks.framework/Versions/A/AutoHyperlinks" -mmacosx-version-min=10.6 -fobjc-arc -fobjc-link-runtime -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks"36"9CD5D31D-D4C7-43A0-82E4-719E40F24283-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks5392e164bd86b741^32b0ee64bd86b741^---0#0#0#--1017"Ld ../AutoHyperlinks.framework/Versions/A/AutoHyperlinks normal x86_64    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -dynamiclib "-L/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/.." "-F/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/.." -filelist "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/Objects-normal/x86_64/AutoHyperlinks.LinkFileList" -install_name "@executable_path/../Frameworks/AutoHyperlinks.framework/Versions/A/AutoHyperlinks" -mmacosx-version-min=10.6 -fobjc-arc -fobjc-link-runtime -framework Cocoa -single_module -compatibility_version 1 -current_version 1 -o "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/AutoHyperlinks"36"EDB9DA07-0E03-4813-8445-84C5349B46BE-
 
-CLex /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l
-s378074226.341810
-e378074226.775001
+CLex /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l
+s394706276.163839
+e394706276.580590
 r1
 xLex
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto
 xHyperlinks/Source/Source/AHLinkLexer.l
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Lex /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l79075872f488b641^4167c672f488b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/Hyperlinks/Source/Source/AHLinkLexer.l000000000080d041^536"Lex /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    lex "-o/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"36"5D8C872A-ABBB-46F7-9756-3BCBD05EBBB4-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Lex /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.lf8542a64bd86b741^33a69464bd86b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/Hyperlinks/Source/Source/AHLinkLexer.l000000000080d041^444"Lex /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    lex "-o/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/._build/Hyperlink Processor Framework.build/Release/AutoHyperlinks.framework.build/DerivedSources/AHLinkLexer.yy.c" "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/Source/AHLinkLexer.l"36"E41F59E5-EC85-4EF2-8139-03F8AAFA7A96-
 
-CProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist" Resources/Info.plist
-s378074226.286978
-e378074226.292316
+CProcessInfoPlistFile "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist" Resources/Info.plist
+s394706276.124121
+e394706276.129432
 r1
 xProcessInfoPlistFile
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist
 xResources/Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process Resources/Info.plistbb094a72f488b641^22e24a72f488b641^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto%20Hyperlinks/Source/Resources/Info.plist0000000000000000^455"ProcessInfoPlistFile ../AutoHyperlinks.framework/Versions/A/Resources/Info.plist Resources/Info.plist    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    builtin-infoPlistUtility Resources/Info.plist -expandbuildsettings -format binary -platform macosx -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist"36"18978D6B-E739-43AD-A35E-A31D981209C8-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process Resources/Info.plist42232064bd86b741^ab212164bd86b741^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/Geoff/Code/Dark-Textual/Frameworks/Auto%20Hyperlinks/Source/Resources/Info.plist0000000000000000^409"ProcessInfoPlistFile ../AutoHyperlinks.framework/Versions/A/Resources/Info.plist Resources/Info.plist    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    builtin-infoPlistUtility Resources/Info.plist -expandbuildsettings -format binary -platform macosx -o "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/A/Resources/Info.plist"36"408A5BF5-65DF-4776-A119-9173B9034BD9-
 
-CProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cihpynfhkknyvgdwmutpcntinmbc/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+CProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cnxboibxuxazbjetstbtkvvldcmi/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-cyxpacwhbyezvmewjkzyqmvkaypc/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+CProcessPCH /tmp/com.codeux.textual/SharedPCH/AutoHyperlinks.framework_Prefix-hjiqoimpljazxrbltlzglebrlfwi/AutoHyperlinks.framework_Prefix.pch.pth Source/AutoHyperlinks.framework_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
-CSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks" Versions/Current/AutoHyperlinks
-s378074226.237415
-e378074226.261410
+CSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks" Versions/Current/AutoHyperlinks
+s394706276.064966
+e394706276.084922
 r1
 xSymLink
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks
 xVersions/Current/AutoHyperlinks
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Process /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks39983d72f488b641^fdbb4272f488b641^---0#0#0#--361"SymLink ../AutoHyperlinks.framework/AutoHyperlinks Versions/Current/AutoHyperlinks    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf Versions/Current/AutoHyperlinks "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks"36"F4D5877F-9EB0-4A85-ACAB-3A30C0B0D1E8-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Process /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinkse2901164bd86b741^ec4f1664bd86b741^---0#0#0#--315"SymLink ../AutoHyperlinks.framework/AutoHyperlinks Versions/Current/AutoHyperlinks    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf Versions/Current/AutoHyperlinks "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/AutoHyperlinks"36"63ED2847-C41C-407D-B8B1-8C3C97707BF2-
 
-CSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers" Versions/Current/Headers
-s378074226.265118
-e378074226.276986
+CSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers" Versions/Current/Headers
+s394706276.101089
+e394706276.116014
 r1
 xSymLink
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers
 xVersions/Current/Headers
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Process /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headersac6f4472f488b641^0af24772f488b641^---0#0#0#--333"SymLink ../AutoHyperlinks.framework/Headers Versions/Current/Headers    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf Versions/Current/Headers "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers"36"268A207D-358C-40BB-8B46-464D9B410105-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers629d1a64bd86b741^c8b11d64bd86b741^---0#0#0#--287"SymLink ../AutoHyperlinks.framework/Headers Versions/Current/Headers    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf Versions/Current/Headers "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Headers"36"84364CCC-89A3-4F7D-9218-48BF793C0A5E-
 
-CSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources" Versions/Current/Resources
-s378074226.237399
-e378074226.257870
+CSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources" Versions/Current/Resources
+s394706276.064957
+e394706276.080766
 r1
 xSymLink
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources
 xVersions/Current/Resources
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Process /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resourcesee763d72f488b641^79244272f488b641^---0#0#0#--341"SymLink ../AutoHyperlinks.framework/Resources Versions/Current/Resources    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf Versions/Current/Resources "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources"36"0088C8A8-AD4F-4E61-9E4F-AC61D28084E0-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Process /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resourcesb77b1164bd86b741^4bac1464bd86b741^---0#0#0#--295"SymLink ../AutoHyperlinks.framework/Resources Versions/Current/Resources    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf Versions/Current/Resources "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Resources"36"07F3F33C-37EC-4128-A401-B12D27BB2F57-
 
-CSymLink "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current" A
-s378074226.237422
-e378074226.258675
+CSymLink "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current" A
+s394706276.064958
+e394706276.088192
 r1
 xSymLink
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current
 xA
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Process /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current8a913d72f488b641^44a44272f488b641^---0#0#0#--305"SymLink ../AutoHyperlinks.framework/Versions/Current A    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf A "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current"36"BA11E7A2-9CCA-4F23-BD5E-5DF4279EA7C5-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Process /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Currente3dd1164bd86b741^27d91664bd86b741^---0#0#0#--259"SymLink ../AutoHyperlinks.framework/Versions/Current A    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    /bin/ln -sf A "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework/Versions/Current"36"D9822D03-AB07-43F1-A5D2-ED08F139D716-
 
-CTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework"
-s378074227.120779
-e378074227.132339
+CTouch "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework"
+s394706276.939979
+e394706276.953286
 r1
 xTouch
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework6a6c1f73f488b641^2ae12173f488b641^---0#0#0#--271"Touch ../AutoHyperlinks.framework    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source"    /usr/bin/touch -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework"36"97E2701F-A416-4252-A902-4B15E8F00E13-
+x/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Touch /Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework3a05f164bd86b741^e509f464bd86b741^---0#0#0#--225"Touch ../AutoHyperlinks.framework    cd "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source"    /usr/bin/touch -c "/Users/Geoff/Code/Dark-Textual/Frameworks/Auto Hyperlinks/Source/../AutoHyperlinks.framework"36"EDEE097D-2B7C-4F9E-A100-28811A556758-
 

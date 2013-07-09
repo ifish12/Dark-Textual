@@ -1,89 +1,0 @@
-TBlowfishCommandLine
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/Info.plist" Info.plist
-cCompileC "._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/TPI_BlowfishCommands.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine" normal x86_64
-cTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle"
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000005078D4350000000000006730
-t1350095925
-s26416
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/Info.plist
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/BlowfishCommandLine.LinkFileList
-c0000000050D8BD1900000000000000E3
-t1356381465
-s227
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.o
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/TPI_BlowfishCommands.m
-c0000000050D81F1F00000000000014E3
-t1356341023
-s5347
-
-NInfo.plist
-c0000000050D81F1F0000000000000250
-t1356341023
-s592
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies41675299f488b641^406a5b99f488b641^---0#1#0#--18"Check dependencies36"D5AD45AB-3AF3-41A5-ABD7-82DC8349CA0E-
-
-CCompileC "._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/TPI_BlowfishCommands.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074265.375777
-e378074266.008683
-r1
-xCompileC
-x._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/TPI_BlowfishCommands.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/TPI_BlowfishCommands.m2de96099f488b641^b938029af488b641^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish%20Key%20Control/TPI_BlowfishCommands.m0000000000000000^4810"CompileC "._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.o" TPI_BlowfishCommands.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/BlowfishCommandLine-generated-files.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/BlowfishCommandLine-own-target-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/BlowfishCommandLine-all-target-headers.hmap" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/BlowfishCommandLine-project-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/include" -I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers/External Libraries" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -Xclang -fobjc-runtime-has-weak -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/TPI_BlowfishCommands.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/TPI_BlowfishCommands.o"36"5B61D010-2B10-47E0-9CC5-C300316FB53C-
-
-CLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine" normal x86_64
-s378074266.015373
-e378074266.123182
-r1
-xLd
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection171"Link /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine1078049af488b641^ebab1f9af488b641^---0#0#0#--2140"Ld ../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine normal x86_64    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control"    setenv MACOSX_DEPLOYMENT_TARGET 10.6.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle "-L/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -filelist "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/._build/Blowfish Key Control Extension.build/App Store Release/BlowfishCommandLine.build/Objects-normal/x86_64/BlowfishCommandLine.LinkFileList" -mmacosx-version-min=10.6.8 -bundle_loader "/Users/Geoff/Library/Developer/Xcode/DerivedData/Main_Project_(Textual)-biarrajwwzimclhiinarhrjjvypv/ArchiveIntermediates/Textual (App Store Release)/InstallationBuildProductsLocation/Applications/Textual.app/Contents/MacOS/Textual" -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/MacOS/BlowfishCommandLine"36"C5ADDF9A-A0E8-4632-8EE2-5343C72E87F5-
-
-CProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/Info.plist" Info.plist
-s378074265.361963
-e378074265.368114
-r1
-xProcessInfoPlistFile
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/Info.plist
-xInfo.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist2d3e5d99f488b641^213c5e99f488b641^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish%20Key%20Control/Info.plist0000000000000000^443"ProcessInfoPlistFile ../Compiled/BlowfishCommandLine.bundle/Contents/Info.plist Info.plist    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control"    builtin-infoPlistUtility Info.plist -expandbuildsettings -format binary -platform macosx -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle/Contents/Info.plist"36"C5B5471D-75F4-4391-9486-5BA26F38D853-
-
-CTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle"
-s378074266.130852
-e378074266.143898
-r1
-xTouch
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Touch /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle2a1b229af488b641^e9d5249af488b641^---0#0#0#--303"Touch ../Compiled/BlowfishCommandLine.bundle    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control"    /usr/bin/touch -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Blowfish Key Control/../Compiled/BlowfishCommandLine.bundle"36"7A60B215-9631-4449-9298-E1EFCEF5C26A-
-

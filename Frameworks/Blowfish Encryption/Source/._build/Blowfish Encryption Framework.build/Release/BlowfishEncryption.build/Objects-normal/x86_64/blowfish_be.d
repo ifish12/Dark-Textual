@@ -1,3 +1,3 @@
 dependencies: \
-  /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish\ Encryption/Source/Classes/blowfish_be.m \
-  /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish\ Encryption/Source/Classes/blowfish_be.h
+  /Users/Geoff/Code/Dark-Textual/Frameworks/Blowfish\ Encryption/Source/Classes/blowfish_be.m \
+  /Users/Geoff/Code/Dark-Textual/Frameworks/Blowfish\ Encryption/Source/Classes/blowfish_be.h

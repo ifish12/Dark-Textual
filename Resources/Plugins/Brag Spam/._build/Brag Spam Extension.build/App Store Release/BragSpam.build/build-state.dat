@@ -1,112 +1,0 @@
-TBragSpam
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/Info.plist" Info.plist
-cCompileC "._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/TPIBragSpam.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam" normal x86_64
-cTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle"
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000005078D4350000000000006730
-t1350095925
-s26416
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
-c0000000050D81F1F0000000000003EB4
-t1356341023
-s16052
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/Info.plist
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/BragSpam.LinkFileList
-c0000000050D8BD1A000000000000017F
-t1356381466
-s383
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.o
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/TPIBragSpam.m
-c0000000050D81F1F00000000000015BA
-t1356341023
-s5562
-
-NInfo.plist
-c0000000050D81F1F000000000000023C
-t1356341023
-s572
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesea089c9af488b641^1effa59af488b641^---0#1#0#--18"Check dependencies36"4C67EBCC-E62E-4845-A05F-DC8EBF8E33CE-
-
-CCompileC "._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074266.666641
-e378074267.168678
-r1
-xCompileC
-x._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection179"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.mec6dab9af488b641^3c2d2b9bf488b641^---0#0#0#-19%DVTDocumentLocation2@195"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag%20Spam/../../../Classes/Library/External%20Libraries/ARC%20Weak%20Refrences/PLWeakCompatibilityStubs.m0000000000000000^4555"CompileC "._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-generated-files.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-own-target-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-all-target-headers.hmap" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-project-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/include" -I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers/External Libraries" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -Xclang -fobjc-runtime-has-weak -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o"36"849D608F-0C18-404A-95CB-718FFA35CF1E-
-
-CCompileC "._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/TPIBragSpam.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074266.666641
-e378074267.353859
-r1
-xCompileC
-x._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/TPIBragSpam.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/TPIBragSpam.mc66aab9af488b641^70965a9bf488b641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag%20Spam/TPIBragSpam.m0000000000000000^4349"CompileC "._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.o" TPIBragSpam.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-generated-files.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-own-target-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-all-target-headers.hmap" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/BragSpam-project-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/include" -I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers/External Libraries" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -Xclang -fobjc-runtime-has-weak -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/TPIBragSpam.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/TPIBragSpam.o"36"57422E41-7BFD-45B0-AFEA-F6D44F3EC60C-
-
-CLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam" normal x86_64
-s378074267.360766
-e378074267.412577
-r1
-xLd
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam5dc35c9bf488b641^b69e699bf488b641^---0#0#0#--2008"Ld ../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam normal x86_64    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam"    setenv MACOSX_DEPLOYMENT_TARGET 10.6.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle "-L/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -filelist "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/._build/Brag Spam Extension.build/App Store Release/BragSpam.build/Objects-normal/x86_64/BragSpam.LinkFileList" -mmacosx-version-min=10.6.8 -bundle_loader "/Users/Geoff/Library/Developer/Xcode/DerivedData/Main_Project_(Textual)-biarrajwwzimclhiinarhrjjvypv/ArchiveIntermediates/Textual (App Store Release)/InstallationBuildProductsLocation/Applications/Textual.app/Contents/MacOS/Textual" -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/MacOS/BragSpam"36"99D2F0EC-E73A-4D57-9E9C-CB38DCDDD60B-
-
-CProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/Info.plist" Info.plist
-s378074266.653154
-e378074266.658795
-r1
-xProcessInfoPlistFile
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/Info.plist
-xInfo.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist9ab6a79af488b641^22a6a89af488b641^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag%20Spam/Info.plist0000000000000000^399"ProcessInfoPlistFile ../Compiled/BragSpam.bundle/Contents/Info.plist Info.plist    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam"    builtin-infoPlistUtility Info.plist -expandbuildsettings -format binary -platform macosx -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle/Contents/Info.plist"36"E21CFD04-3DF8-44F5-AA18-DF2F4C316CCB-
-
-CTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle"
-s378074267.420224
-e378074267.429743
-r1
-xTouch
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Touch /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle001f6c9bf488b641^e6036e9bf488b641^---0#0#0#--259"Touch ../Compiled/BragSpam.bundle    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam"    /usr/bin/touch -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/Brag Spam/../Compiled/BragSpam.bundle"36"72378A05-2D13-40C7-869A-0EF2486E2865-
-

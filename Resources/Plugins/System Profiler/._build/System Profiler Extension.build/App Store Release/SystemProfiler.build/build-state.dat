@@ -1,177 +1,0 @@
-TSystemProfiler
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Info.plist" Info.plist
-cCopyPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources/MacintoshModels.plist" MacintoshModels.plist
-cCompileXIB "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/English.lproj/TPISystemProfiler.xib"
-cCompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPI_SP_SysInfo.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPISystemProfiler.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfiler" normal x86_64
-cTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle"
-
-N/System/Library/Frameworks/Cocoa.framework/Cocoa
-c000000005078D4350000000000006730
-t1350095925
-s26416
-
-N/System/Library/Frameworks/IOKit.framework/IOKit
-c000000005078D441000000000012F810
-t1350095937
-s1243152
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
-c0000000050D81F1F0000000000003EB4
-t1356341023
-s16052
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Info.plist
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfiler
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources/English.lproj/TPISystemProfiler.nib
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources/MacintoshModels.plist
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/SystemProfiler.LinkFileList
-c0000000050D8BD1C0000000000000277
-t1356381468
-s631
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.o
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.o
-t2
-s0
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/English.lproj/TPISystemProfiler.xib
-c0000000050D81F1F0000000000008C02
-t1356341023
-s35842
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/MacintoshModels.plist
-c0000000050D81F1F000000000000117B
-t1356341023
-s4475
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPISystemProfiler.m
-c0000000050D81F1F000000000000157E
-t1356341023
-s5502
-
-N/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPI_SP_SysInfo.m
-c0000000050D81F1F0000000000005A36
-t1356341023
-s23094
-
-NInfo.plist
-c0000000050D81F1F0000000000000248
-t1356341023
-s584
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese8fafa9bf488b641^b91c0b9cf488b641^---0#1#0#--18"Check dependencies36"485A4815-2B05-46EA-A45D-8C078DFA38D5-
-
-CCompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074268.144518
-e378074268.872757
-r1
-xCompileC
-x._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection185"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.mf2b3259cf488b641^d36bdf9cf488b641^---0#0#0#-19%DVTDocumentLocation2@201"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System%20Profiler/../../../Classes/Library/External%20Libraries/ARC%20Weak%20Refrences/PLWeakCompatibilityStubs.m0000000000000000^4777"CompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o" "../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-generated-files.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-own-target-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-all-target-headers.hmap" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-project-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/include" -I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers/External Libraries" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -Xclang -fobjc-runtime-has-weak -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../../../Classes/Library/External Libraries/ARC Weak Refrences/PLWeakCompatibilityStubs.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/PLWeakCompatibilityStubs.o"36"3209993B-C69D-4FAB-A443-13675C6AC951-
-
-CCompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPISystemProfiler.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074268.144714
-e378074269.125191
-r1
-xCompileC
-x._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPISystemProfiler.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPISystemProfiler.mf8fa269cf488b641^9a0b209df488b641^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System%20Profiler/TPISystemProfiler.m0000000000000000^4607"CompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.o" TPISystemProfiler.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-generated-files.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-own-target-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-all-target-headers.hmap" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-project-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/include" -I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers/External Libraries" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -Xclang -fobjc-runtime-has-weak -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPISystemProfiler.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPISystemProfiler.o"36"9B6506C7-0DF6-4C64-ADEB-C75D05D80247-
-
-CCompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.o" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPI_SP_SysInfo.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s378074268.143590
-e378074269.217667
-r1
-xCompileC
-x._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.o
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPI_SP_SysInfo.m
-xnormal
-xx86_64
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPI_SP_SysInfo.m00ad259cf488b641^23ba379df488b641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System%20Profiler/TPI_SP_SysInfo.m0000000000000000^4589"CompileC "._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.o" TPI_SP_SysInfo.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-format -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6.8 -g -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-generated-files.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-own-target-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-all-target-headers.hmap" -iquote "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/SystemProfiler-project-headers.hmap" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/include" -I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Classes/Headers/External Libraries" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/DerivedSources/x86_64" "-I/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/DerivedSources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -Xclang -fobjc-runtime-has-weak -MMD -MT dependencies -MF "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.d" --serialize-diagnostics "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.dia" -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/TPI_SP_SysInfo.m" -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/TPI_SP_SysInfo.o"36"31519ABB-7B8B-4A05-A261-0BE9A0FF8084-
-
-CCompileXIB "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/English.lproj/TPISystemProfiler.xib"
-s378074268.066839
-e378074268.121605
-r1
-xCompileXIB
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/English.lproj/TPISystemProfiler.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compiling /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/English.lproj/TPISystemProfiler.xib56f2119cf488b641^ce361f9cf488b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System%20Profiler/English.lproj/TPISystemProfiler.xib0000000000000000^686"CompileXIB English.lproj/TPISystemProfiler.xib    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources/English.lproj/TPISystemProfiler.nib" "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/English.lproj/TPISystemProfiler.xib" --sdk ""36"8525A50D-CF6A-4E52-A1B7-9AB0B485AA12-
-
-CCopyPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources/MacintoshModels.plist" MacintoshModels.plist
-s378074268.066751
-e378074268.086627
-r1
-xCopyPlistFile
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources/MacintoshModels.plist
-xMacintoshModels.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Copy MacintoshModels.plistaaf2119cf488b641^b8571a9cf488b641^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System%20Profiler/MacintoshModels.plist0000000000000000^425"CopyPlistFile ../Compiled/SystemProfiler.bundle/Contents/Resources/MacintoshModels.plist MacintoshModels.plist    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    builtin-copyPlist --convert binary1 --outdir "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Resources" -- MacintoshModels.plist36"B7A6F294-2E98-4C28-99D5-5FEE3BF17AA4-
-
-CLd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfiler" normal x86_64
-s378074269.224561
-e378074269.286971
-r1
-xLd
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfiler
-xnormal
-xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Link /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfilerc9e7399df488b641^c977499df488b641^---0#0#0#--2097"Ld ../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfiler normal x86_64    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    setenv MACOSX_DEPLOYMENT_TARGET 10.6.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -bundle "-L/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled" -F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Mustache Templates" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Resources" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Auto Hyperlinks/Source/Source" "-F/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Frameworks/Blowfish Encryption/Source/Classes" -filelist "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/._build/System Profiler Extension.build/App Store Release/SystemProfiler.build/Objects-normal/x86_64/SystemProfiler.LinkFileList" -mmacosx-version-min=10.6.8 -bundle_loader "/Users/Geoff/Library/Developer/Xcode/DerivedData/Main_Project_(Textual)-biarrajwwzimclhiinarhrjjvypv/ArchiveIntermediates/Textual (App Store Release)/InstallationBuildProductsLocation/Applications/Textual.app/Contents/MacOS/Textual" -fobjc-arc -fobjc-link-runtime -framework Cocoa -framework IOKit -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/MacOS/SystemProfiler"36"2B2BA81B-D92D-40C1-92BC-DBABB25D43C6-
-
-CProcessInfoPlistFile "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Info.plist" Info.plist
-s378074268.050937
-e378074268.056471
-r1
-xProcessInfoPlistFile
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Info.plist
-xInfo.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistcaa50d9cf488b641^43720e9cf488b641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System%20Profiler/Info.plist0000000000000000^423"ProcessInfoPlistFile ../Compiled/SystemProfiler.bundle/Contents/Info.plist Info.plist    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    builtin-infoPlistUtility Info.plist -expandbuildsettings -format binary -platform macosx -o "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle/Contents/Info.plist"36"1D53C25A-3369-459A-826F-E4A03188A31A-
-
-CTouch "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle"
-s378074269.294962
-e378074269.305059
-r1
-xTouch
-x/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Touch /Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundleee074c9df488b641^05184e9df488b641^---0#0#0#--283"Touch ../Compiled/SystemProfiler.bundle    cd "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler"    /usr/bin/touch -c "/Volumes/HDD/Users/iFish/Code/Textual/Textual/Textual/Resources/Plugins/System Profiler/../Compiled/SystemProfiler.bundle"36"1CD01D2F-BD71-4E94-A436-D84B6702E26C-
-

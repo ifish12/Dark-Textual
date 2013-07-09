@@ -834,11 +834,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C46CCC51580469E00846B64 /* Cocoa.framework in Frameworks */,
+				4C46CCC61580469E00846B64 /* CoreServices.framework in Frameworks */,
 				4C46CCC41580469E00846B64 /* AppKit.framework in Frameworks */,
 				4C8AF6F4158E9AF20026668C /* AutoHyperlinks.framework in Frameworks */,
 				4C8AF6F2158E9AEB0026668C /* BlowfishEncryption.framework in Frameworks */,
-				4C46CCC51580469E00846B64 /* Cocoa.framework in Frameworks */,
-				4C46CCC61580469E00846B64 /* CoreServices.framework in Frameworks */,
 				4C46CCC71580469E00846B64 /* Foundation.framework in Frameworks */,
 				4CCF2EE2158046F9006FFE21 /* Growl.framework in Frameworks */,
 				4C46CCC81580469E00846B64 /* IOKit.framework in Frameworks */,
